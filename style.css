@@ -6,7 +6,7 @@
 }
 
 main {
-  background-image: url('https://lh4.googleusercontent.com/proxy/xhkf_JBAnB1I9Jsgv5LnBcxGrFodpvBQ9cjRghu5nC0-Uqa3v3N4vpwnv10Zha0fiyGcDKwI62v6OsfaiUmTFbauHypXvgoiR2Hm9w=s0-d');
+  background-image: url('./public/bg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
